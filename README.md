@@ -7,3 +7,4 @@
 |kaggle titanic        | titanic |
 |AIdea  產乳量          |  milk  |
 |AIdea  離職率          |  leave |
+|AIdea  博覽會          |  marathon|
